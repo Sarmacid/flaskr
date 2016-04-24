@@ -1,2 +1,2 @@
 # flaskr
-Flask test app
+Flask test app with python.
